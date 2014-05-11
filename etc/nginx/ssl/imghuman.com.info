@@ -1,0 +1,58 @@
+SHA1 Fingerprint=28:77:7B:DF:15:06:30:BD:64:D3:25:C9:77:61:38:9D:AE:1E:D8:D7
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 13282540926796532944 (0xb8551099584b8cd0)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=California, L=San Francisco, O=Internet Widgits Pty Ltd, CN=*.imghuman.com
+        Validity
+            Not Before: May 11 15:36:53 2014 GMT
+            Not After : May  6 15:36:53 2034 GMT
+        Subject: C=US, ST=California, L=San Francisco, O=Internet Widgits Pty Ltd, CN=*.imghuman.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b3:1f:f4:3c:76:96:7e:12:a5:5b:cf:b3:41:a4:
+                    86:0e:3e:fd:b2:70:9e:27:79:a1:4f:cf:cb:63:70:
+                    ad:30:14:ec:c7:d8:ff:c9:2f:68:06:4c:88:e6:80:
+                    4c:ee:f0:24:a1:83:30:54:28:84:89:84:90:41:7b:
+                    6e:6a:bd:d1:12:27:9b:03:ac:44:9b:5b:1d:2a:80:
+                    b6:5e:34:01:40:74:b9:9e:4f:df:ef:01:fb:2c:e0:
+                    db:ce:14:0f:3d:54:3c:48:cc:af:ae:a3:4b:a0:79:
+                    ae:ce:fd:88:e9:1b:0f:3a:93:8a:ab:be:d5:a4:7e:
+                    ac:2e:ab:2b:40:0b:64:4d:72:7d:ea:6c:19:7b:4c:
+                    c9:93:98:ee:a9:62:3b:ac:64:20:59:60:ab:a4:6d:
+                    7b:4d:e7:09:c6:7f:9e:21:80:d2:ae:4c:d4:0b:ff:
+                    37:7b:a9:bf:ed:93:d6:91:6e:af:a4:9c:71:56:4c:
+                    3e:ac:72:84:ca:02:45:ea:b0:96:32:81:1b:ea:e4:
+                    e9:19:de:e2:53:fb:02:d2:91:48:b9:ea:31:ea:91:
+                    57:cf:99:f9:4f:99:ce:b1:27:33:a6:fd:0e:bc:3d:
+                    a6:7c:60:3a:61:a8:42:0e:90:00:11:c8:47:5b:75:
+                    8f:6a:5f:5c:00:f3:03:a0:de:b8:18:a5:ef:fb:84:
+                    65:69
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                6B:B0:FB:D2:BA:CD:74:AE:22:17:08:62:6E:82:2D:6F:08:39:2C:D9
+            X509v3 Authority Key Identifier: 
+                keyid:6B:B0:FB:D2:BA:CD:74:AE:22:17:08:62:6E:82:2D:6F:08:39:2C:D9
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+         64:f5:91:b0:3b:68:6e:3c:76:44:b3:7b:56:f5:2c:8c:c7:f9:
+         eb:b1:ef:cd:e5:cc:85:0f:c5:10:16:01:1b:5d:19:e2:9e:34:
+         3b:54:51:96:26:67:10:64:02:cf:df:65:08:2a:d3:5a:b0:16:
+         28:43:3e:5d:b9:e2:d1:d5:db:85:d7:99:90:fb:ab:34:03:19:
+         0a:9f:77:69:45:72:34:55:64:d0:67:df:42:ea:2b:a9:85:1e:
+         0a:7b:b1:b4:81:0e:39:71:d0:ff:95:28:60:f0:b4:b5:07:4f:
+         c9:07:7f:d8:94:29:1e:63:11:d4:dc:6d:b8:1f:d8:fe:67:5d:
+         4f:f5:30:62:d8:69:82:a8:21:d5:3f:e4:de:68:7e:31:c4:35:
+         d1:7c:42:c9:26:93:f9:9e:19:b6:c9:3d:5a:3b:49:16:d2:b4:
+         c0:6b:88:0c:df:ba:b3:b5:1d:cb:2c:8a:d1:cd:58:9a:a1:24:
+         8d:8b:43:34:de:9a:c0:c2:1b:8f:b5:74:52:8b:aa:22:0c:69:
+         a5:b3:00:6c:4f:79:b0:84:f2:7d:15:ce:ad:48:69:62:22:3a:
+         70:3b:ae:27:aa:ab:fe:56:3f:5c:1d:9a:a0:69:ef:24:50:66:
+         fc:22:cd:cf:be:39:a5:59:f3:5d:2d:cc:de:c7:f8:1f:49:8f:
+         9e:cf:de:39
