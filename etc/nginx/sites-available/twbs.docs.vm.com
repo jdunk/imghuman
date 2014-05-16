@@ -2,7 +2,7 @@ server {
     listen 80;
     listen [::]:80;
 
-    server_name twbs.docs.vm.com bs.docs.vm.com bootstrap.docs.vm.com twbs.docs.vm.jdunk.co bs.docs.vm.jdunk.co bootstrap.docs.vm.jdunk.co;
+    server_name twbs.docs.vm.com bs.docs.vm.com bootstrap.docs.vm.com twbs.docs.vm.jdunk.co bs.docs.vm.jdunk.co bootstrap.docs.vm.jdunk.co twbs.vm.jdunk.co bs.vm.jdunk.co bootstrap.vm.jdunk.co;
 
     access_log /var/log/nginx/twbs.docs.vm.com.access.log;
     error_log /var/log/nginx/twbs.docs.vm.com.error.log;
